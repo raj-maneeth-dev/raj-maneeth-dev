@@ -1,70 +1,84 @@
-<h1 align="center">Maneeth Sekhar</h1>
+<div align="center">
 
-<p align="center">
-  <em>Building software today, engineering intelligence tomorrow.</em>
-</p>
+# Hey, I'm Maneeth 👋
 
-<p align="center">
-  Computer Science student · Aspiring Software Developer & AI Engineer
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2DD4BF&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Aspiring+Software+Developer;Future+AI+Engineer;Always+building+something" alt="Typing animation" />
 
----
+*Building software today, engineering intelligence tomorrow.*
 
-## About
-
-I'm a Diploma in Computer Science student at **Methodist College Kuala Lumpur (MCKL)**, graduating in **2027**. I enjoy building software, experimenting with AI, making games and solving programming problems.
-
-I'm interested in **Artificial Intelligence**, **Machine Learning**, **Software Engineering** and **Backend Development**, and I'm looking for opportunities to learn by building real things.
+</div>
 
 ---
 
-## Technologies & Tools
+## `> whoami`
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&labelColor=161b22)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&labelColor=161b22)
-![GML](https://img.shields.io/badge/GML-161b22?style=flat-square&labelColor=161b22)
+```text
+name        : Maneeth Sekhar
+studying    : Diploma in Computer Science @ MCKL (grad 2027)
+based in    : Kuala Lumpur, Malaysia
+interests   : AI, Machine Learning, Software Engineering, Backend
+side quests : game dev, chess, football
+status      : open to Industrial Training from January 2027 (12+ weeks)
+```
 
-**Web Development**  
-![HTML](https://img.shields.io/badge/HTML-161b22?style=flat-square&labelColor=161b22)
-![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&labelColor=161b22)
+I like building things, breaking them, and then figuring out why. Right now I'm working towards a career in **software engineering and AI**, one project at a time.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,kotlin&theme=dark" alt="Languages" />  
+![GML](https://img.shields.io/badge/GML-GameMaker_Language-161b22?style=flat-square)
+
+**Web**  
+<img src="https://skillicons.dev/icons?i=html,css,cloudflare&theme=dark" alt="Web" />
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&labelColor=161b22)
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases" />
 
-**Developer Tools**  
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&labelColor=161b22)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&labelColor=161b22)
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&labelColor=161b22)
-![GameMaker Studio](https://img.shields.io/badge/GameMaker%20Studio-161b22?style=flat-square&labelColor=161b22)
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark" alt="Tools" />  
+![GameMaker Studio](https://img.shields.io/badge/GameMaker_Studio-161b22?style=flat-square)
+![UML](https://img.shields.io/badge/UML-161b22?style=flat-square)
 
-**AI / Machine Learning**  
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&labelColor=161b22)
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="AI / ML" />
 
 ---
 
-## Featured Projects
+## 🚧 Featured Projects
 
-<!-- Replace each placeholder row with a real project. Add or remove rows as needed. -->
+New projects are on the way. This section fills up as I build them.
 
-| Project | Description | Technologies | Repository |
+| Project | What it does | Built with | Link |
 | --- | --- | --- | --- |
-| **Project Name** | Short description of what it does and why you built it. | Java, Python | [View on GitHub](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
-| **Project Name** | Short description of what it does and why you built it. | HTML, CSS | [View on GitHub](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
-| **Project Name** | Short description of what it does and why you built it. | GML | [View on GitHub](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
+| **Project #1** | Coming soon | TBD | [Repo](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
+| **Project #2** | Coming soon | TBD | [Repo](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
+| **Project #3** | Coming soon | TBD | [Repo](https://github.com/raj-maneeth-dev/REPOSITORY_NAME) |
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-- Machine Learning
-- Data Structures and Algorithms
-- Backend Development
-- AI Engineering
+| Topic | Status |
+| --- | --- |
+| Machine Learning | In progress |
+| Data Structures and Algorithms | In progress |
+| Backend Development | In progress |
+| AI Engineering | In progress |
 
 ---
 
-## GitHub Statistics
+## 🎮 Off the Keyboard
+
+- ♟️ Chess
+- ⚽ Football
+- 🕹️ Making games with GameMaker Studio
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raj-maneeth-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
@@ -81,10 +95,11 @@ I'm interested in **Artificial Intelligence**, **Machine Learning**, **Software 
 
 ---
 
-## Connect With Me
+## 📬 Let's Connect
 
-<!-- Replace the portfolio placeholder with your real link, or delete that line. -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-maneeth-b31a12443/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rajmaneeth28@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+</p>
 
-- **LinkedIn:** [linkedin.com/in/raj-maneeth-b31a12443](https://www.linkedin.com/in/raj-maneeth-b31a12443/)
-- **Email:** [rajmaneeth28@gmail.com](mailto:rajmaneeth28@gmail.com)
-- **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
+<p align="center"><sub>Thanks for stopping by. Check back soon, there's more coming.</sub></p>
