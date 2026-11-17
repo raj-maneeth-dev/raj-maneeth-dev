@@ -81,16 +81,12 @@ New projects are on the way. This section fills up as I build them.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=raj-maneeth-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-  <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-maneeth-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/raj-maneeth-dev?style=for-the-badge&labelColor=161b22&color=2dd4bf" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=raj-maneeth-dev&style=for-the-badge&color=2dd4bf&labelColor=161b22" />
 </p>
 
 <p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=raj-maneeth-dev&theme=dark&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=raj-maneeth-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/2dd4bf/raj-maneeth-dev" width="720" />
 </p>
 
 ---
